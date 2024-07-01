@@ -10,7 +10,7 @@ export default function Main() {
             London
           </h1>
           <p className="weather-app-details">
-            <span id="time">Tuesday 18:30</span>,
+            <span id="time">Tuesday 20:30</span>,
             <span id="description"> drizzle</span>
             <br />
             Humidity: <strong id="humidity">70%</strong>, Wind:
